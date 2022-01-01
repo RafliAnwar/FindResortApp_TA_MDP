@@ -1,4 +1,4 @@
-# Sanggraloka(FindResortApp) Tugas Akhir Praktikum Mobile Devoce Progamming
+# Sanggraloka(FindResortApp) 
 
 A new Flutter project.
 
